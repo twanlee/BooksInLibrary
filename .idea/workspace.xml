@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3b07e9e0-b3ed-42b1-8693-7f7f11324c2e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aZT552k7SKamkv9F9Rtbmrswsh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Application.SelectBooks">
+    <configuration name="SelectBooks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="booklist.SelectBooks" />
+      <module name="BooksInLibrary" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="booklist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testBook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="booklist.testBook" />
+      <module name="BooksInLibrary" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="booklist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SelectBooks" />
+        <item itemvalue="Application.testBook" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b07e9e0-b3ed-42b1-8693-7f7f11324c2e" name="Default Changelist" comment="" />
+      <created>1586941929469</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586941929469</updated>
+      <workItem from="1586941932349" duration="13186000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="669" y="296" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586956858292">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="669" y="296" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1032@0.0.1920.1032" timestamp="1586956858292" />
+    <state x="717" y="120" key="#com.intellij.ide.util.MemberChooser" timestamp="1586944288995">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="717" y="120" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1032@0.0.1920.1032" timestamp="1586944288995" />
+    <state x="623" y="199" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1586945890487">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="623" y="199" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1586945890487" />
+    <state width="437" height="582" key="DebuggerActiveHint" timestamp="1586949618486">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="437" height="582" key="DebuggerActiveHint/0.0.1920.1032@0.0.1920.1032" timestamp="1586949618486" />
+    <state width="1864" height="259" key="GridCell.Tab.0.bottom" timestamp="1586956844454">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="259" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1586956844454" />
+    <state width="1864" height="259" key="GridCell.Tab.0.center" timestamp="1586956844454">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="259" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1586956844454" />
+    <state width="1864" height="259" key="GridCell.Tab.0.left" timestamp="1586956844454">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="259" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1586956844454" />
+    <state width="1864" height="259" key="GridCell.Tab.0.right" timestamp="1586956844454">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="259" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1586956844454" />
+    <state width="1864" height="321" key="GridCell.Tab.1.bottom" timestamp="1586956194061">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="321" key="GridCell.Tab.1.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1586956194061" />
+    <state width="1864" height="321" key="GridCell.Tab.1.center" timestamp="1586956194061">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="321" key="GridCell.Tab.1.center/0.0.1920.1032@0.0.1920.1032" timestamp="1586956194061" />
+    <state width="1864" height="321" key="GridCell.Tab.1.left" timestamp="1586956194060">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="321" key="GridCell.Tab.1.left/0.0.1920.1032@0.0.1920.1032" timestamp="1586956194060" />
+    <state width="1864" height="321" key="GridCell.Tab.1.right" timestamp="1586956194061">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="321" key="GridCell.Tab.1.right/0.0.1920.1032@0.0.1920.1032" timestamp="1586956194061" />
+    <state x="623" y="224" key="extract.method.dialog" timestamp="1586955205425">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="623" y="224" key="extract.method.dialog/0.0.1920.1032@0.0.1920.1032" timestamp="1586955205425" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="shelf" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
