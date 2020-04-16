@@ -56,10 +56,11 @@ public class SelectBooks {
                     break;
                 case 2:
                     System.out.println("Enter your Book: ");
-                    String bookName = sc.nextLine();
                     sc.nextLine();
+                    String bookName = sc.nextLine();
+
                     for (int i=0; i<shelf.length; i++){
-                        if(shelf[i].getName().replaceAll("\\s+","").equals(bookName.replaceAll("\\s+",""))){
+                        if(shelf[i].getName().equals(bookName)){
                             if (shelf[i] instanceof ProgramingBook){
                                 shelf[i] = (ProgramingBook) shelf[i];
                                 System.out.println(shelf[i].display());

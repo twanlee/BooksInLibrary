@@ -5,13 +5,12 @@ public class Book {
     private int price;
     private String author;
     private int bookCode;
-    static int code = 0000;
+    static int code = 0;
     public Book(){};
     public Book(String name, int price, String author){
         this.author = author;
         this.name = name;
         this.price = price;
-        code ++;
     };
 
     public String getName() {
